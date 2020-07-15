@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi I'm Enyel Sequeira
+## A Software Developer who loves to code and learn new things each day. 
+
 
 <!--
 **enyelsequeira/enyelsequeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
