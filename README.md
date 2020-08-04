@@ -41,7 +41,8 @@
 ---
 
 ### Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enyelsequeira)](https://github.com/anuraghazra/github-readme-stats)
+
+![enyelSequeria Stats](https://github-readme-stats.vercel.app/api?username=enyelsequeira&show_icons=true&theme=dracula)
 
 ---
 
