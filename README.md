@@ -3,8 +3,8 @@
 
 
 ## I'm A Full-stack Developer. Always learning!
-- 🔭 I’m currently working on a movie app project using AI
-- 🌱 I’m currently learning how to work with graphql
+- 🔭 I’m currently working on a travel blog using contenful 
+- 🌱 I’m currently learning how to work with Typescript 
 - 👯 I’m looking to enter the tech field 
 - 🥅 2020 Goals: Get a job as a junior Developer
 - ⚡ Fun fact: I love playing tennis and soccer
