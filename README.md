@@ -3,10 +3,10 @@
 
 
 ## I'm A Full-stack Developer. Always learning!
-- 🔭 I’m currently working on a travel blog using contenful 
-- 🌱 I’m currently learning how to work with Typescript 
+- 🔭 I’m currently working on a full-stack app using typeorm and next with typescript
+- 🌱 I’m currently learning how to work with vue 
 - 👯 I’m looking to enter the tech field 
-- 🥅 2020 Goals: Get a job as a junior Developer
+- 🥅 2021 Goals: Learn a new language
 - ⚡ Fun fact: I love playing tennis and soccer
 
 ### Connect with me:
