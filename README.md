@@ -4,7 +4,7 @@
 
 ## I'm A Full-stack Developer. Always learning!
 - 🔭 I’m currently working on a full-stack app using typeorm and next with typescript
-- 🌱 I’m currently learning how to work with vue 
+- 🌱 I’m currently learning how to work with vue and Learning Ruby
 - 👯 I’m looking to enter the tech field 
 - 🥅 2021 Goals: Learn a new language
 - ⚡ Fun fact: I love playing tennis and soccer
