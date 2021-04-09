@@ -9,7 +9,7 @@
 - 🙌🏼 2021 Goals: Learn a new language
 - ⚽️ Fun fact: I love playing tennis and soccer
 
- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming?theme=dracula&animation=default&layout=zues&font=Redressed)
+ ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed)
 
 
 ### Connect with me:
