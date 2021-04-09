@@ -2,12 +2,12 @@
 ## A Software Developer who loves to code and learn new things each day. 
 
 
-## I'm A Full-stack Developer. Always learning!
-- 🔭 I’m currently working on a full-stack app using typeorm and next with typescript
-- 🌱 I’m currently learning how to work with typescript and Learning Ruby
-- 👯 I’m looking to build meaningful apps
-- 🥅 2021 Goals: Learn a new language
-- ⚡ Fun fact: I love playing tennis and soccer
+## I'm a Full-Stack Developer who is eager to learn!
+- 🖥 I’m currently working on a full-stack app using typeorm and next with typescript
+- 🤓 I’m currently learning how to work with typescript and Learning Ruby
+- 👨🏻‍💻 I’m looking to build meaningful apps
+- 🙌🏼 2021 Goals: Learn a new language
+- ⚽️ Fun fact: I love playing tennis and soccer
 
 ### Connect with me:
 
