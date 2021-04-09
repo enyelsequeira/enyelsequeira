@@ -3,7 +3,7 @@
 
 <div align="center" width="100%">
  ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed)
-<div>
+</div>
 
 ## I'm a Full-Stack Developer who is eager to learn!
 - 🖥 I’m currently working on a full-stack app using typeorm and next with typescript
