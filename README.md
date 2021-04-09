@@ -26,11 +26,8 @@
 ### Current Stack: 
 
 Front-End: **TypeScript** **NextJs**
+<br />
 Back-End: **PSQL** **NodeJS**
-
-<br />
-<br />
-
 
 ---
 
@@ -44,13 +41,6 @@ Back-End: **PSQL** **NodeJS**
 [twitter]: https://twitter.com/EnyelSequeira
 [instagram]: https://www.instagram.com/e.s.codes/?hl=en
 [linkedin]: https://www.linkedin.com/in/enyel-sequeira-333a60100/
-
-
-
-
-
-
-
 
 
 
