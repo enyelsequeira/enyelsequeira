@@ -6,10 +6,10 @@
 
 
 ## I'm a Full-Stack Developer who is eager to learn!
-- 🖥 I’m currently working on a full-stack app using typeorm and next with typescript
-- 🤓 I’m currently learning how to work with typescript and Learning Ruby
+- 🖥 I’m currently working as Lead Frontend Engineer creating a Market Place for mirror-world
+- 🤓 I’m currently learning more about Solidity and Rust 
 - 👨🏻‍💻 I’m looking to build meaningful apps
-- 🙌🏼 2021 Goals: Learn a new language
+- 🙌🏼 2022 Goals: Learn and be able to scale with Rust and Creating more complex contracts with Solidity
 - ⚽️ Fun fact: I love playing tennis and soccer
 
 
