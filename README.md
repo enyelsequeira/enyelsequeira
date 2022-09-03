@@ -5,8 +5,8 @@
  ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed)
 
 
-## I'm a Full-Stack Developer who is eager to learn!
-- 🖥 I’m currently working as Lead Frontend Engineer creating a Market Place for mirror-world
+## I'm a Full-Stack Developer who is always learning!
+- 🖥 I’m currently working as Lead Frontend Engineer creating a marketplace and a mobile wallet based on Solana 
 - 🤓 I’m currently learning more about Solidity and Rust 
 - 👨🏻‍💻 I’m looking to build meaningful apps
 - 🙌🏼 2022 Goals: Learn and be able to scale with Rust and Creating more complex contracts with Solidity
