@@ -6,7 +6,7 @@
 
 
 ## I'm a Full-Stack Developer who is always learning!
-- 🖥 I’m currently working as a Senior Frontend Engineer @OmegaSys.eu
+- 🖥 I’m currently working as a Senior Frontend Engineer @Omegasys.eu
 - 🤓 I’m currently learning more about Solidity and Rust 
 - 👨🏻‍💻 I’m looking to build meaningful apps
 - 🙌🏼 2022 Goals: Learn and be able to scale with Rust and Creating more complex contracts with Solidity
