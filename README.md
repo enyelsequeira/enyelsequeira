@@ -2,14 +2,13 @@
 ## A Software Developer who loves to code and learn new things each day. 
 
 
- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed)
 
 
 ## I'm a Full-Stack Developer who is always learning!
 - 🖥 I’m currently working as a Senior Frontend Engineer @Omegasys.eu
-- 🤓 I’m currently learning more about `C#` and `Blazor`
+- 🤓 I’m currently learning more about backend technologies
 - 👨🏻‍💻 I’m looking to build meaningful apps
-- 🙌🏼 2022 Goals: Learn a different language
+- 🙌🏼 2023 Goals: Learn a different language
 - ⚽️ Fun fact: I love playing tennis and soccer
 
 
